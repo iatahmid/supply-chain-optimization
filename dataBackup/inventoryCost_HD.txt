@@ -1,0 +1,12 @@
+?hd?_11^1=0.08 tk/pair
+?hd?_21^1=0.075 tk/pair
+?hd?_31^1=0.081 tk/pair
+?hd?_12^1=0.08 tk/pair
+?hd?_22^1=0.075 tk/pair
+?hd?_32^1=0.081 tk/pair
+?hd?_11^2=0.08 tk/pair
+?hd?_21^2=0.075 tk/pair
+?hd?_31^2=0.081 tk/pair
+?hd?_12^2=0.08 tk/pair
+?hd?_22^2=0.075 tk/pair
+?hd?_32^2=0.081 tk/pair

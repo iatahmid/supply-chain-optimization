@@ -1,0 +1,12 @@
+?dc?_11^1=3500pairs
+?dc?_21^1=3500pairs
+?dc?_31^1=3500pairs
+?dc?_12^1=3500pairs
+?dc?_22^1=3500pairs
+?dc?_32^1=3500pairs
+?dc?_11^2=1800pairs
+?dc?_21^2=1700pairs
+?dc?_31^2=2000pairs
+?dc?_12^2=1800pairs
+?dc?_22^2=1700pairs
+?dc?_32^2=2000pairs

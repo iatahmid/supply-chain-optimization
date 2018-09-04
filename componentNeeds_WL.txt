@@ -1,0 +1,6 @@
+?Wl?_11=24000sq feet
+?Wl?_21=23600sq feet
+?Wl?_31=24100sq feet
+?Wl?_12=24000sq feet
+?Wl?_22=23600sq feet
+?Wl?_32=24100sq feet

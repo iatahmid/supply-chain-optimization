@@ -1,0 +1,22 @@
+?Cl?_111^1=102 tk/sqfeet
+?Cl?_211^1=100 tk/sqfeet
+?Cl?_311^1=105 tk/sqfeet
+?Cl?_121^1=100 tk/sqfeet
+?Cl?_221^1=95 tk/sqfeet
+?Cl?_321^1=102 tk/sqfeet
+?Cl?_131^1=106 tk/sqfeet
+?Cl?_231^1=104 tk/sqfeet
+?Cl?_331^1=102 tk/sqfeet
+?Cl?_112^1=102 tk/sqfeet
+?Cl?_212^1=100 tk/sqfeet
+?Cl?_312^1=105 tk/sqfeet
+?Cl?_122^1=100 tk/sqfeet
+?Cl?_222^1=95 tk/sqfeet
+?Cl?_322^1=102 tk/sqfeet
+?Cl?_132^1=106 tk/sqfeet
+?Cl?_232^1=104 tk/sqfeet
+?Cl?_332^1=102 tk/sqfeet
+
+
+
+

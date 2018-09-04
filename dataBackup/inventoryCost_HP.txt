@@ -1,0 +1,12 @@
+?hp?_11^1=0.06tk/pair
+?hp?_21^1=0.056tk/pair
+?hp?_31^1=0.062tk/pair
+?hp?_12^1=0.06tk/pair
+?hp?_22^1=0.056tk/pair
+?hp?_32^1=0.062tk/pair
+?hp?_11^2=0.06tk/pair
+?hp?_21^2=0.056tk/pair
+?hp?_31^2=0.062tk/pair
+?hp?_12^2=0.06tk/pair
+?hp?_22^2=0.056tk/pair
+?hp?_32^2=0.062tk/pair

@@ -1,0 +1,6 @@
+a_1^1=0.07min/pair
+a_2^1=0.073min/pair
+a_3^1=0.069min/pair
+a_1^2=0.071min/pair
+a_2^2=0.074min/pair
+a_3^2=0.070min/pair

@@ -1,0 +1,12 @@
+C_11^1=50tk/pair
+C_21^1=52tk/pair
+C_31^1=51tk/pair
+C_12^1=48tk/pair
+C_22^1=49tk/pair
+C_32^1=48.5tk/pair
+C_11^2=53tk/pair
+C_21^2=54tk/pair
+C_31^2=52tk/pair
+C_12^2=50tk/pair
+C_22^2=51tk/pair
+C_32^2=50.5tk/pair

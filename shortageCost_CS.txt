@@ -1,0 +1,12 @@
+?CS?_11^1=475tk/pair
+?CS?_21^1=470tk/pair
+?CS?_31^1=472tk/pair
+?CS?_12^1=475tk/pair
+?CS?_22^1=470tk/pair
+?CS?_32^1=472tk/pair
+?CS?_11^2=480tk/pair
+?CS?_21^2=478tk/pair
+?CS?_31^2=473tk/pair
+?CS?_12^2=476tk/pair
+?CS?_22^2=472tk/pair
+?CS?_32^2=474tk/pair

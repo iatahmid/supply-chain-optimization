@@ -1,0 +1,6 @@
+r_1^1=6000pairs
+r_2^1=5800pairs
+r_3^1=6100pairs
+r_1^2=6000pairs
+r_2^2=5800pairs
+r_3^2=6100pairs

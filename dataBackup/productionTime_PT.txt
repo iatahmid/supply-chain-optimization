@@ -1,0 +1,6 @@
+?pt?_1^1=0.04min/pair
+?pt?_2^1=0.041min/pair
+?pt?_3^1=0.039min/pair
+?pt?_1^2=0.041min/pair
+?pt?_2^2=0.042min/pair
+?pt?_3^2=0.04min/pair

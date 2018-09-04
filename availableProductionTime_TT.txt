@@ -1,0 +1,6 @@
+?tt?_11=720min/day
+?tt?_21=720min/day
+?tt?_31=720min/day
+?tt?_12=720min/day
+?tt?_22=720min/day
+?tt?_32=720min/day
